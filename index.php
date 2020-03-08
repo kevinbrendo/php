@@ -2,4 +2,6 @@
 
 	echo "ola !";
 
+	echo "ola test"
+
 ?>
